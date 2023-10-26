@@ -1,0 +1,30 @@
+.product-Datails-container{
+    padding: 10px;
+    font-size: 24px;
+    border: 1px solid red;
+}
+.product-datils-card{
+    padding: 10px;
+}
+.goback-container{
+    align-items: center;
+    display: flex;
+}
+.goback-container svg {
+    color: #407BFF;
+    transform: rotate(-180deg);
+   
+}
+.goback-container h2 {
+    margin-left: 15px;
+    color: #263238;
+    font-size: 1em;
+    letter-spacing: -0.015em;
+    text-transform: uppercase;
+}
+.img-container{
+    text-align: center;
+}
+.img-container img{
+ width: 80%;
+}
